@@ -14,3 +14,6 @@ In conclusion, the most noteable metric for coupon acceptance were people that v
 When analyzing coupon acceptance for `Coffee`, I took a similar approach.  First, with visualizations to note any major differences.  This showed a higher acceptance ratio in the morning hours.  From there I wanted to see where people were going, assuming `work` would be the most popular destination.  It turns out people with a `No urgent place` destination in mind had the highest coupon acceptance rate.
 
 Analyzing further, it appears income didn't play as big of a role as it did for bar coupons.  However, people that were with passangers had a 58% acceptance rate.
+
+## Analysis
+The full data analysis can be reviewed here: https://github.com/cmillsLA/ucb_module_5/blob/main/prompt.ipynb
